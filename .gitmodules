@@ -1,0 +1,6 @@
+[submodule "BulkDeleteDiscord"]
+	path = BulkDeleteDiscord
+	url = git@github.com:jamesinaxx/BulkDeleteDiscord.git
+[submodule "BulkMessageDiscord"]
+	path = BulkMessageDiscord
+	url = git@github.com:jamesinaxx/BulkMessageDiscord.git
