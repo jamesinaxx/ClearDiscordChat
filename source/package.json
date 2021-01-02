@@ -1,0 +1,15 @@
+{
+  "name": "clearchat",
+  "version": "1.0.0",
+  "description": "A relatively simple discord bot that clears the chat in given channel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "jamesina",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0"
+  }
+}
