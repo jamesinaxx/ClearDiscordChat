@@ -1,5 +1,3 @@
-## NOTE: This bot is somewhat broken as you can no longer bulkdelete message older than 14 days! A fix may come soon but it's unlikely!
-## ALSO NOTE: This bot is archived but not deprecated and still works to some extent as mentioned above.
 # ClearDiscordChat
 A relatively simple discord bot that clears the chat in given channel
 
@@ -33,3 +31,6 @@ Now we have to set up the code behind the bot so it can actually do something.
 
 # That's that!
 You have now successfully got the bot(s) running on your server! If you would like to intergrate these commands into your current bot, imma leave that up to you to figure out for now, if you coded it yourself I would assume you would have the knowledge on how to do it! 
+
+## NOTE: This bot is somewhat broken as you can no longer bulkdelete message older than 14 days! A fix may come soon but it's unlikely!
+## ALSO NOTE: This bot is archived but not deprecated and still works to some extent as mentioned above.
