@@ -10,11 +10,11 @@ A relatively simple discord bot that clears the chat in given channel
 1. First go to the [discord developer portal](https://discord.com/developers/applications)
 2. Make sure you are logged in
 3. In the top right press new application
-![New application button](BulkDeleteDiscord/images/new-application.png)
+![New application button](https://raw.githubusercontent.com/jamesinaxx/BulkDeleteDiscord/a335138b836eb76472d9eec36dc099f214d3492b/images/new-application.png)
 4. Give it a name... any name
 5. Boom. You now have a discord application. This can be used for rich prescence connections, or, discord bots
 6. Click on the bot tab on the left
-![The bot tab](BulkDeleteDiscord/images/bot-tab.png)
+![The bot tab](https://raw.githubusercontent.com/jamesinaxx/BulkDeleteDiscord/a335138b836eb76472d9eec36dc099f214d3492b/images/bot-tab.png)
 7. Now press Add Bot
 8. Press Yes, Do it!
 9. And just like that you have a discord bot!
